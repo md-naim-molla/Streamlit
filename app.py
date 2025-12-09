@@ -7,7 +7,7 @@ nltk.download('vader_lexicon')
 sia = SentimentIntensityAnalyzer()
 
 st.title('Sentiment Analysis Dashboard')
-st.subheader('This Dashboard will provide you a sentiment score for a partucular text.')
+st.subheader('This Dashboard will provide you the sentiment score for a partucular text.')
 
 
 
